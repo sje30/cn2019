@@ -27,12 +27,25 @@ chapter](http://www.inference.org.uk/mackay/itprnn/ps/504.520.pdf)
 ## Lecture 5,6: networks 2 - dynamical systems
 [slides](slides/cn-3.pdf)
 
+## lecture 7,8: networks to be continued.
+
+Extra date: Friday 15th Feb, 1-3pm MR15.
+
+## lecture 9,10: human brain networks / 1
+(Dr Romero-Garcia)
+
+## lecture 11,12: human brain networks / 2
+(Dr Romero-Garcia)
+
+## lecture 13,14: reinforcement learning
+
+## lecture 15,16: unsupervised learning
 
 # Assignments
 
 ## Assignment 1
 
-[CNA1](cna1_2019.pdf)
+[CNA1](assign/cna1_2019.pdf)
 
 Due date to be confirmed.
 
