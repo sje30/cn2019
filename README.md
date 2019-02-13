@@ -21,5 +21,20 @@ Reading: [Hodgkin and Huxley, 1952](readings/hodgkin1952.pdf)
 
 [slides](slides/cn-2.pdf)
 Reading: [Hopfield, 1982](https://paperpile.com/app/p/9fbca9a6-abfd-049f-93cb-3a4f76baae69)
+[David Mackay
+chapter](http://www.inference.org.uk/mackay/itprnn/ps/504.520.pdf)
+
+## Lecture 5,6: networks 2 - dynamical systems
+[slides](slides/cn-3.pdf)
+
+
+# Assignments
+
+## Assignment 1
+
+[CNA1](cna1_2019.pdf)
+
+Due date to be confirmed.
+
 
 
