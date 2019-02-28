@@ -33,9 +33,11 @@ Extra date: Friday 15th Feb, 1-3pm MR15.
 
 ## lecture 9,10: human brain networks / 1
 (Dr Romero-Garcia)
+[slides](slides/Lectures_1_and_2_4x4.pdf)
 
 ## lecture 11,12: human brain networks / 2
 (Dr Romero-Garcia)
+[slides](slides/Lectures_3_and_4_4x4.pdf)
 
 ## lecture 13,14: reinforcement learning
 
