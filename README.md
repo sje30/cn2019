@@ -39,9 +39,16 @@ Extra date: Friday 15th Feb, 1-3pm MR15.
 (Dr Romero-Garcia)
 [slides](slides/Lectures_3_and_4_4x4.pdf)
 
-## lecture 13,14: reinforcement learning
+## lecture 13,14: unsupervised learning
+[slides](slides/cn-4.pdf)
 
-## lecture 15,16: unsupervised learning
+## lecture 15,16: reinforcement learning
+
+
+# References
+
+Key references are in <https://paperpile.com/shared/Bv9UOO>
+
 
 # Assignments
 
@@ -49,7 +56,11 @@ Extra date: Friday 15th Feb, 1-3pm MR15.
 
 [CNA1](assign/cna1_2019.pdf)
 
-Due date to be confirmed.
+## Assignment 2
+
+[CNA2](assign/cna2_2019.pdf)
+
+
 
 
 
