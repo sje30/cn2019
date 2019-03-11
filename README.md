@@ -43,7 +43,7 @@ Extra date: Friday 15th Feb, 1-3pm MR15.
 [slides](slides/cn-4.pdf)
 
 ## lecture 15,16: reinforcement learning
-
+[slides](slides/cn-5.pdf)
 
 # References
 
